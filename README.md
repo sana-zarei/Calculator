@@ -19,6 +19,7 @@ This is a Simple Calculator script written in Python. It allows users to perform
 
 ## Author
 Sana Zarei
+
 [Website](Sana Zarei)
 
 ## License
