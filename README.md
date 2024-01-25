@@ -20,7 +20,5 @@ This is a Simple Calculator script written in Python. It allows users to perform
 ## Author
 Sana Zarei
 
-[Website](Sana Zarei)
-
 ## License
 This project is open-sourced under the MIT License.
